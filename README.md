@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/meakif61" target="blank"><img src="https://img.shields.io/twitter/follow/meakif61?logo=twitter&style=for-the-badge" alt="meakif61" /></a> </p>
 
-- 🌱 I’m currently learning **CLARUSWAY**
+- 🌱 I’m currently learning **fullstackdevelopment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/meakif?tab=repositories](https://github.com/meakif?tab=repositories)
 
